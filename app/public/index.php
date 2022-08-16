@@ -1,2 +1,4 @@
 <?php
-echo phpinfo();
+$a = 1;
+echo $a;
+// echo phpinfo();
